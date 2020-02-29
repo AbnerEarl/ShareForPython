@@ -1,5 +1,5 @@
 
 
-最新版MathType : https://pan.baidu.com/s/1lk4HD92CdH74AlVtL1IO0w
+最新版MathType : 链接: https://pan.baidu.com/s/1RuJbVGLJN-keO1xjBxO_aA 
 
-提取密码：t6bw
+提取密码：45wr
