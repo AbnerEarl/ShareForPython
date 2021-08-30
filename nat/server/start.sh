@@ -1,0 +1,1 @@
+/usr/nats/frps -c /usr/nats/frps.ini &
