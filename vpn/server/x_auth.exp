@@ -1,0 +1,10 @@
+#!/usr/bin/expect
+
+set vpn_client_username [lindex $argv 0]
+set vpn_client_password [lindex $argv 1]
+spawn ./easyrsa build-client-full $vpn_client_username
+expect "Enter PEM pass phrase:"
+send "$vpn_client_password\r"
+expect "Verifying - Enter PEM pass phrase"
+send "$vpn_client_password\n"
+interact
